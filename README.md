@@ -33,6 +33,6 @@
 
 <div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=kazim68&show_icons=true&locale=en" alt="kazim68" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazim68&" alt="kazim68" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazim68&show_icons=true&locale=en&layout=compact" alt="kazim68" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazim68&" alt="kazim68" />
 </div>
