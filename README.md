@@ -6,15 +6,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazim68" alt="kazim68" /></a> </p>
 
-- 🔭 I’m currently working on [making an AI chatbot using the MERN Stack.](https://github.com/Kazim68/AI-Chatbot)
+I'm Abdur Rehman Kazim, a Computer Science student set to graduate in 2026 from University of Engineering and Technology Lahore. I am more focused on backend development with Node and Django. Proficient in designing and implementing RESTful APIs for seamless integration and efficient communication between systems. Now that I am comfortable with Data Structures and Algorithms, I am exploring System Design Patterns for cracking Big Tech interviews. My goal is to get hired at Google.
 
-- 🌱 I’m currently learning **Data Structures & Algorithms to become a better and more efficient version of myself.**
+Technical Skills:
+Programming Languages: Python, C++, C#, JavaScript
+Web Development: Node.js with Express.js, Django
+Database Management: MongoDB, My SQL, SQL Server, SSIS for ETL operations
+Data Analysis and Visualization: pandas, Power BI
+Tools and Technologies: Git, Linux
 
-- 🧩 I enjoy tackling complex problems and turning challenges into opportunities. I believe in the power of technology to drive positive change.
+Key Projects:
+DOS Shell with Text Editor: Developed in C++, demonstrating proficiency in Data Structures (Trees and Linked lists).
+Mini Excel Application: A console-based project showcasing data manipulation and algorithm design. Features extensive manipulation of Data Structures. 
+Employee Performance Evaluation System: Designed a comprehensive database architecture, performed ETL operations, and created analytics dashboards in Power BI.
 
-- 👨🏻‍💻 In the ever-evolving tech landscape, I stay updated with the latest trends, tools, and methodologies to ensure I bring the best solutions to the table.
-
-- 👯 I’m looking to collaborate on **various MERN projects to put my skills to the test.**
+Eager to connect with professionals in the tech industry, I am open to collaborative opportunities that drive technology forward.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kazim68](https://github.com/Kazim68)
 
