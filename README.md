@@ -1,30 +1,37 @@
 ![CoverPhoto](https://github.com/Kazim68/Kazim68/assets/120156815/d66ccddb-6ca7-4205-b613-b9288e7a60c5)
-<h1 align="center">Hi there 👋, I'm Abdur Rehman Kazim.</h1>
-<h3 align="center">A MERN Stack Developer and a future ML Engineer.</h3>
+<h1 align="center">A Software Engineer | Backend Developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazim68&label=Profile%20views&color=0e75b6&style=flat" alt="kazim68" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazim68" alt="kazim68" /></a> </p>
-
+<p>
 I'm Abdur Rehman Kazim, a Computer Science student set to graduate in 2026 from University of Engineering and Technology Lahore. I am more focused on backend development with Node and Django. Proficient in designing and implementing RESTful APIs for seamless integration and efficient communication between systems. Now that I am comfortable with Data Structures and Algorithms, I am exploring System Design Patterns for cracking Big Tech interviews. My goal is to get hired at Google.
+</p>
 
-Technical Skills:
+<h3>Technical Skills:</h3>
+
 Programming Languages: Python, C++, C#, JavaScript
+  
 Web Development: Node.js with Express.js, Django
+
+Libraries and Tools: Numpy, Pandas, matplotlib, Jupyter Nootbook
+
 Database Management: MongoDB, My SQL, SQL Server, SSIS for ETL operations
+
 Data Analysis and Visualization: pandas, Power BI
+
 Tools and Technologies: Git, Linux
 
-Key Projects:
+<h3>Key Projects:</h3>
+
 DOS Shell with Text Editor: Developed in C++, demonstrating proficiency in Data Structures (Trees and Linked lists).
-Mini Excel Application: A console-based project showcasing data manipulation and algorithm design. Features extensive manipulation of Data Structures. 
+
+Mini Excel Application: A console-based project Ahole showcasing data manipulation and algorithm design. Features extensive manipulation of Data Structures. 
+
 Employee Performance Evaluation System: Designed a comprehensive database architecture, performed ETL operations, and created analytics dashboards in Power BI.
 
+<br>
 Eager to connect with professionals in the tech industry, I am open to collaborative opportunities that drive technology forward.
-
-- 👨‍💻 All of my projects are available at [https://github.com/Kazim68](https://github.com/Kazim68)
-
-- 📫 Contact me using my gmail: **abdurrehmankazim68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
