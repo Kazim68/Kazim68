@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kazim68&label=Profile%20views&color=0e75b6&style=flat" alt="kazim68" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazim68&theme=darkhub&row=1&column=5&title=Stars,Commits,Repositories,Issues,PullRequest,MultiLanguage,Experience" alt="kazim68" /></a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=kazim68&theme=darkhub&row=1&column=5&title=Stars,Commits,Repositories,Issues,PullRequest,MultiLanguage,Experience" alt="kazim68" /></a>
 </p>
 
 
@@ -54,7 +54,7 @@
 
 | GitHub Stats | LeetCode Stats |
 |--------------|----------------|
-| ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kazim68&layout=compact&theme=github_dark) <br> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazim68&show_icons=true&theme=github_dark) | ![LeetCode Card](https://leetcard.jacoblin.cool/kazim68?theme=dark&ext=activity) |
+| ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kazim68&layout=compact&theme=github_dark) <br> ![GitHub Stats](https://github-readme-stats-fork-two.vercel.app/api?username=kazim68&show_icons=true&theme=github_dark) | ![LeetCode Card](https://leetcard.jacoblin.cool/kazim68?theme=dark&ext=activity) |
 
 
 <br>
